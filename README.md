@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - [**risc-v-exercises**](https://github.com/dag7dev/risc-v-exercises-2020): I dig everywhere on the web, but this is the only place where I found some RISC-V snippets.
 
 ## 📫 How to reach me:
-Normally, [I would link you to my favorite website, but since it is a constant WIP](https://dag7.it), you can reach me at the email in my github profile.
+Normally, [I would link you to my favorite website, but since it is constantly in WIP](https://dag7.it), you can reach me at the email in my github profile.
 
 Follow my socials!
  
