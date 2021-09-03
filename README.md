@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🎯 In the near future, I plan to...
   - Work on [**The Homebrew Hub**](https://github.com/gbdev/homebrewhub) using **Django** and finish scrapers for [**GB Dev**](https://github.com/gbdev/database)
   - Make a game or a homebrew for the Game Boy 👾
-  - Update [**magic-startup-arch-sh**](https://github.com/dag7dev/magic-startup-arch-sh) and my [**dotfiles folder**](https://github.com/dag7dev/dotfiles)
+  - ~~Update [**magic-startup-arch-sh**](https://github.com/dag7dev/magic-startup-arch-sh) and my [**dotfiles folder**](https://github.com/dag7dev/dotfiles)~~ **DONE, check them out here!**
   - Finish University: what do you expected? It is a thing.
   - Write some articles on Medium
 - 🤞 One day I hope to...
