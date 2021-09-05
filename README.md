@@ -29,7 +29,8 @@ Here are some ideas to get you started:
   - Make a game or a homebrew for the Game Boy 👾
   - ~~Update [**magic-startup-arch-sh**](https://github.com/dag7dev/magic-startup-arch-sh) and my [**dotfiles folder**](https://github.com/dag7dev/dotfiles)~~ **DONE, check them out here!**
   - Finish University: what do you expected? It is a thing.
-  - Write some articles on Medium
+  - Stop hopping from theme to theme and build a website that won't change from year in year: [https://dag7.it is a thing now](https://dag7.it)
+  - ~~Write some articles on Medium~~ **DONE** check out my articles [here](https://medium.com/@dgualandri)
 - 🤞 One day I hope to...
 	- Visit 🇯🇵 and 🇨🇳
   - Contribute to [Linux kernel](https://github.com/torvalds/linux) or any other worldwide spread project
@@ -44,9 +45,8 @@ Here are some ideas to get you started:
 - [**risc-v-exercises**](https://github.com/dag7dev/risc-v-exercises-2020): I dig everywhere on the web, but this is the only place where I found some RISC-V snippets.
 
 ## 📫 How to reach me:
-Normally, [I would link you to my favorite website, but since it is constantly in WIP](https://dag7.it), you can reach me at the email in my github profile.
+[On my website you can find what you prefer to contact me](https://dag7.it), but if you are still undecided, don't think twice and drop me an email at the address in my Github profile.
 
-Follow my socials!
- 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Dag7_ on Twitter" title="Follow Dag7_ on Twitter"/>](https://twitter.com/dag7_)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow therealdag7_ on Instagram" title="Follow therealdag7_ on Instagram"/>](https://instagram.com/therealdag7_)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter-square.svg" height="40em" align="center" alt="Follow Dag7_ on Twitter" title="Follow Dag7_ on Twitter"/>](https://twitter.com/dag7_)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" height="40em" align="center" alt="Drop him an email" title="Drop him an email"/>](mailto:dag7@protonmail.com)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/medium.svg" height="40em" align="center" alt="Follow him on Medium" title="Follow him on Medium"/>](https://medium.com/@dgualandri)
