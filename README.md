@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 [On my website you can find what you prefer to contact me](https://dag7.it), but if you are still undecided, don't think twice and drop me an email at the address in my Github profile.
 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter-square.svg" height="40em" align="center" alt="Follow Dag7_ on Twitter" title="Follow Dag7_ on Twitter"/>](https://twitter.com/dag7_)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" height="40em" align="center" alt="Drop him an email" title="Drop him an email"/>](mailto:dag7@protonmail.com)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-square.svg" height="40em" align="center" alt="Drop him an email" title="Drop him an email"/>](mailto:dag7@protonmail.com)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/medium.svg" height="40em" align="center" alt="Follow him on Medium" title="Follow him on Medium"/>](https://medium.com/@dgualandri)
