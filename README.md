@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🎓 Studying Computer Science
 - 🌐 You can access all my open-source projects [here on Github](https://github.com/dag7dev/) or [on Gitlab](https://gitlab.com/dag7)
 - 🦊 I am a Mozillian! Proud contributor of [Mozilla Italia](https://github.com/MozillaItalia/) and volounteer of the Mozilla's reps program
-- 💻 Serial distro-hopper: I used to use Arch, but right now I am using [Manjaro](https://manjaro.org/). Once you try the AUR power, you'd never come back again to any other thing!
+- 💻 Serial distro-hopper: I used to use Arch, but right now I am using [Garuda](https://https://garudalinux.org/). Once you try the AUR power, you'd never come back again to any other thing!
  
 <details>
 	<summary> <b>⬆ What I'm up to</b></summary>
