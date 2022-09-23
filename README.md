@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ## :book: About Me
 - 🎓 Studying Computer Science
 - 🌐 You can access all my open-source projects [here on Github](https://github.com/dag7dev/) or [on Gitlab](https://gitlab.com/dag7)
-- 📫 How to reach me: [[Linkedin]](https://linkedin.com/in/dgualandri/) - [[my website]](dag7.it) - [[drop me an email]](dag7@protonmail.com)
+- 📫 How to reach me: [[Linkedin]](https://linkedin.com/in/dgualandri/) - [[my website]](https://dag7.it) - [[drop me an email]](dag7@protonmail.com)
  
-🔨 Some of my projects
+## 🔨 Some of my projects
 
 - [**JSQuizee**](https://github.com/dag7dev/JSQuizee): a completely client-side quiz engine. Keep in mind that when this have been built, I wanted to let anyone use this on any webpage, including Github Pages. For this reason I did not implemented a classic client-server engine.
 
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - [**risc-v-exercises**](https://github.com/dag7dev/risc-v-exercises-2020): I dig everywhere on the web, but this is the only place where I found some RISC-V snippets.
 
+## Links
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter-square.svg" height="40em" align="center" alt="Follow Dag7_ on Twitter" title="Follow Dag7_ on Twitter"/>](https://twitter.com/dag7_)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-square.svg" height="40em" align="center" alt="Drop him an email" title="Drop him an email"/>](mailto:dag7@protonmail.com)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/medium.svg" height="40em" align="center" alt="Follow him on Medium" title="Follow him on Medium"/>](https://medium.com/@dgualandri)
