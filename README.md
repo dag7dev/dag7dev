@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 Stufftrack is finally live!
 - Backend: [stufftrack-backend](https://github.com/nobody-productions/stufftrack-backend)
 - Frontend: [stufftrack-frontend](https://github.com/nobody-productions/stufftrack-frontend)
-Check it out!
+
+Take a look!
 
 ## :book: About Me
 - 🎓 Studying Computer Science
