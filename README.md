@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🤩 Take a look at my wonderful project
+Stufftrack is finally live!
+- Backend: [stufftrack-backend](https://github.com/nobody-productions/stufftrack-backend)
+- Frontend: [stufftrack-frontend](https://github.com/nobody-productions/stufftrack-frontend)
+Check it out!
+
 ## :book: About Me
 - 🎓 Studying Computer Science
 - 🌐 You can access all my open-source projects [here on Github](https://github.com/dag7dev/) or [on Gitlab](https://gitlab.com/dag7)
