@@ -24,6 +24,8 @@ Take a look!
  
 ## 🔨 Some of my projects
 
+- [**Stufftrack**](https://github.com/nobody-productions/stufftrack): tracker for videogames and books. It is not a final project, rather than a PoC...
+
 - [**JSQuizee**](https://github.com/dag7dev/JSQuizee): a completely client-side quiz engine. Keep in mind that when this have been built, I wanted to let anyone use this on any webpage, including Github Pages. For this reason I did not implemented a classic client-server engine.
 
 - [**another-one-the-game**](https://github.com/dag7dev/another-one-the-game.git): a game that uses DeepSpeech as voice recognizer.
