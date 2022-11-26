@@ -12,18 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🤩  Stufftrack is finally live!
-## TAKE A LOOK: [stufftrack](https://github.com/nobody-productions/stufftrack)
-
-Take a look!
-
 ## :book: About Me
 - 🎓 Studying Computer Science
 - 🌐 You can access all my open-source projects [here on Github](https://github.com/dag7dev/) or [on Gitlab](https://gitlab.com/dag7)
 - 📫 How to reach me: [[Linkedin]](https://linkedin.com/in/dgualandri/) - [[my website]](https://dag7.it) - [[drop me an email]](dag7@protonmail.com)
- 
-## 🔨 Some of my projects
+- 📝 Appunti? [universitari](dag7.it/appunti-uni) - [personali](dag7.it/appunti-personali)
 
+## 🔨 Some of my projects
 - [**Stufftrack**](https://github.com/nobody-productions/stufftrack): tracker for videogames and books. It is not a final project, rather than a PoC...
 
 - [**JSQuizee**](https://github.com/dag7dev/JSQuizee): a completely client-side quiz engine. Keep in mind that when this have been built, I wanted to let anyone use this on any webpage, including Github Pages. For this reason I did not implemented a classic client-server engine.
