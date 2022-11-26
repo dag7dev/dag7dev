@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## :book: About Me
 - 🎓 Studying Computer Science
 - 🌐 You can access all my open-source projects [here on Github](https://github.com/dag7dev/) or [on Gitlab](https://gitlab.com/dag7)
-- 📫 How to reach me: [[Linkedin]](https://linkedin.com/in/dgualandri/) - [[my website]](https://dag7.it) - [[drop me an email]](dag7@protonmail.com)
+- 📫 How to reach me: [[Linkedin]](https://linkedin.com/in/dgualandri/) - [[my website]](https://dag7.it) - [[email]](mailto:dag7@protonmail.com)
 - 📝 Appunti? [universitari](dag7.it/appunti-uni) - [personali](dag7.it/appunti-personali)
 
 ## 🔨 Some of my projects
