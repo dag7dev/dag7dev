@@ -37,7 +37,7 @@ Visit my website to know more about myself and what I write: https://dag7.it
 ## 🔗 Links
 
 Feel free to:
-- [follow me](https://twitter.com/dag7_) on Twitter.
+- [follow me](https://twitter.com/iamdag7) on Twitter.
 - [drop an email](mailto:dag7@protonmail.com) in case you need or want to ask me something
 - see my articles [on my official website](https://dag7.it)
   - I have [medium](https://medium.com/@dgualandri) too even if I'm not so active there, I don't use it a lot
