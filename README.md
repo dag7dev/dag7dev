@@ -37,7 +37,6 @@ Visit my website to know more about myself and what I write: https://dag7.it
 ## 🔗 Links
 
 Feel free to:
-- [follow me](https://twitter.com/iamdag7) on Twitter.
 - [drop an email](mailto:dag7@protonmail.com) in case you need or want to ask me something
 - see my articles [on my official website](https://dag7.it)
   - I have [medium](https://medium.com/@dgualandri) too even if I'm not so active there, I don't use it a lot
@@ -45,7 +44,6 @@ Feel free to:
 - [book an appointment with me](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in one of the best expensive restaurants wherever you prefer in the world
 
 #### Cool banners
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter-square.svg" height="40em" align="center" alt="Follow Dag7_ on Twitter" title="Follow Dag7_ on Twitter"/>](https://twitter.com/dag7_)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-square.svg" height="40em" align="center" alt="Drop him an email" title="Drop him an email"/>](mailto:dag7@protonmail.com)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/medium.svg" height="40em" align="center" alt="Follow him on Medium" title="Follow him on Medium"/>]()
 [<img src="https://user-images.githubusercontent.com/44711271/150005890-685145f8-1f4e-4cda-9950-4f87437fce5d.png" height="35em" align="center" alt="Donate" title="Donate!"/>](https://paypal.me/therealdag7)
