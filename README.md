@@ -19,7 +19,7 @@ I'm Damiano, but you can call me Dag7. I'm frome Rome, and I've done some cool s
 - 🎓 Computer Science
 - 🌐 You can access all my open-source projects [here on Github](https://github.com/dag7dev/) or [on Gitlab](https://gitlab.com/dag7)
 - 📫 How to reach me: [[Linkedin]](https://linkedin.com/in/dgualandri/) - [[my website]](https://dag7.it) - [[email]](mailto:dag7@protonmail.com)
-- 📝 Appunti? [universitari](dag7.it/appunti-uni) - [personali](dag7.it/appunti-personali)
+- 📝 Appunti? [universitari](https://dag7.it/appunti-uni) - [personali](https://dag7.it/appunti-personali)
 
 ## 🔗 Links
 
