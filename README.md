@@ -19,6 +19,6 @@ Devops and developer, I'm passionate on many other things, like casual shooting 
 i'll take your brain to another dimension
 ## :book: About Me
 - 🌐 You can access all my open-source projects on [Github](https://github.com/dag7dev/) • [Gitlab](https://gitlab.com/dag7)
-- 📫 Reach me on: [[Linkedin]](https://linkedin.com/in/dgualandri/) • [[my blog]](https://dag7.it) • [[email]](mailto:dag7@protonmail.com)
+- 📫 Reach me on: [Linkedin](https://linkedin.com/in/dgualandri/) • [my blog](https://dag7.it) • [email](mailto:dag7@protonmail.com)
 - 👯 Feel free to [invest in me and my projects](https://paypal.me/therealdag7) • [take a look to my notes](https://dag7.it/appunti) • [book an appointment with me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 🎶 Here's my music channel on [YouTube](https://www.youtube.com/@dag7music) where I make chiptune
